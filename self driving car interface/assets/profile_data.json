@@ -1,0 +1,28 @@
+{
+    "profiles": [
+        {
+            "category":"class_1",
+            "name":"Matthew Barnett",
+            "membership":"Gold",
+            "bank":"£2.45"
+        },
+        {
+            "category":"class_2",
+            "name":"Sophie Robson",
+            "membership":"Silver",
+            "bank":"£2,700,456.32"
+        },
+        {
+            "category":"class_3",
+            "name":"Nigel Robson",
+            "membership":"Bronze",
+            "bank": "£0"
+        },
+        {
+            "category":"class_4",
+            "name":"Darcie Baker-Brogan",
+            "membership":"Bronze",
+            "bank":"£25"
+        }
+    ]
+}

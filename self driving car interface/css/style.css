@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f0f0f0;
+}
+
+@font-face {
+    font-family: raleway;
+    src: url(../assets/raleway.light.ttf);
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 4px;
+    font-family: raleway;
+    width: fit-content;
+}
+
+button:hover {
+    background-color: darkgrey;
+    cursor:grab;
+}
+
+button:active {
+    cursor:grabbing
+}
