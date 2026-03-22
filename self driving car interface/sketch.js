@@ -38,7 +38,7 @@ let mapImg;
 
 //load map
 //Access token
-const access_key = 'pk.eyJ1IjoibWJhcm4zIiwiYSI6ImNtbGV6MWI5dTFmdW0zZHNhNjh5Mjk1NHQifQ.Qy1QfgZGp0VD943_A4lNgA';
+const access_key = '';
 
 //Mapbox style
 const style = "mapbox://styles/mbarn3/cmlgjx9iw003001sc3nk10j6a";
